@@ -10,17 +10,20 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**steps to reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**actual behavior**
+A clear and concise description of what you see happens.
+
+**evidences: screenshots/videos**
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
